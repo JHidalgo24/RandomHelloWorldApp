@@ -1,0 +1,13 @@
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\bin\Debug\netstandard2.0\HelloWorldApp.deps.json
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\bin\Debug\netstandard2.0\HelloWorldApp.dll
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\bin\Debug\netstandard2.0\HelloWorldApp.pdb
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\HelloWorldApp.dll
+C:\Users\justi\RiderProjects\HelloWorldApp\HelloWorldApp\HelloWorldApp\obj\Debug\netstandard2.0\HelloWorldApp.pdb

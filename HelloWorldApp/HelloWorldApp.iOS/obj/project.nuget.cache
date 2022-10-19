@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EtPELplS7rZQkB9s/BQyIcHZy4iI+lfhzCsU/9e52+UE/ZVYsSR6LYqAhDGI7LJIb+Vo047YwjPXuY7zDouprA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justi\\RiderProjects\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.iOS\\HelloWorldApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

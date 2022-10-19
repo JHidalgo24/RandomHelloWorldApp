@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SveyhbsMfG8MSoTluUCIVb3EVDzi9Gu5uX31Q3EqznLRG5iJaNZr5ULuE30feFdaTeHmAPZI6IyPZngYJG9rJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justi\\RiderProjects\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
